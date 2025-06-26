@@ -1,4 +1,3 @@
-Here's a README file for your "The Wild Oasis" project, incorporating details from the provided GitHub repository and your deployment information:
 
 # The Wild Oasis
 
